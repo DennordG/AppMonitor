@@ -1,0 +1,21 @@
+{
+	"exePath": "D:\\Facultate\\Master\\MEP\\Solution\\TestApp\\TestApp\\bin\\Release\\net6.0\\TestApp.exe",
+	"experiments": [
+		{
+			"arguments": "20000000 1",
+			"repeatCount": 3
+		},
+		{
+			"arguments": "20000000 2",
+			"repeatCount": 3
+		},
+		{
+			"arguments": "20000000 3",
+			"repeatCount": 3
+		},
+		{
+			"arguments": "20000000 6",
+			"repeatCount": 3
+		}
+	]
+}
